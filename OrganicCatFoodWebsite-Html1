@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+
+  <html>
+  <body>
+
+    <h1 style="text-align:center; color:black; font-family:American Typewriter">Organic Cat Food</h1>
+
+
+    <h2 style="color:brown; font-family: Garamond">Farm Raised Seafood</h2>
+
+    <h3 style="color:silver; font-family: Garamond">Delectable fish raised in local rivers.</h3>
+
+	<p style="color:grey; font-family:Tahoma">Salmon......................................................................$2.50 per can</p>
+
+
+	<p style="color:grey; font-family:Tahoma">Ocean Whitefish.........................................................$2.00 per can</p>
+
+
+    <p style="color:grey; font-family:Tahoma">Tuna..........................................................................$1.75 per can</p>
+
+
+    <p style="color:grey; font-family:Tahoma">Sardines.....................................................................$1.15 per can</p>
+
+
+     <p style="color:grey; font-family:Tahoma">Tilefish.......................................................................$1.35 per can</p>
+
+     <p style="color:grey; font-family:Tahoma">Shrimp.......................................................................$3.15 per can</p>
+
+     <p style="color:grey; font-family:Tahoma">Calamari.....................................................................$3.50 per can</p>
+
+     <p style="color:grey; font-family:Tahoma">Scallops......................................................................$3.00 per can</p>
+
+
+
+<img src="https://images.unsplash.com/photo-1534948216015-843149f72be3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80" alt="Fish" width="500" height="333">
+
+
+
+
+     <h2 style="color:brown; font-family: Garamond">Farm Raised Poultry</h2>
+
+    <h3 style="color:silver; font-family: Garamond">Antibiotic-free poultry raised by local farms.</h3>
+
+
+    <p style="color:grey; font-family:Tahoma">Chicken.......................................................................$1.50 per can</p>
+
+
+    <p style="color:grey; font-family:Tahoma">Turkey.........................................................................$1.75 per can</p>
+
+
+     <p style="color:grey; font-family:Tahoma">Duck...........................................................................$2.00 per can</p>
+
+     <p style="color:grey; font-family:Tahoma">Geese.........................................................................$2.50 per can</p>
+
+     <p style="color:grey; font-family:Tahoma">Quail...........................................................................$3.00 per can</p>
+
+     <p style="color:grey; font-family:Tahoma">Pheasant.....................................................................$3.50 per can</p>
+
+
+
+<img src="https://images.unsplash.com/photo-1588597989061-b60ad0eefdbf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=869&q=80" alt="Chickens" width="500" height="333">
+
+
+
+
+
+  </body>
+  </html>
